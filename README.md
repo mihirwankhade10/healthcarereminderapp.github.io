@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Sreenshots of HealthCare Web App
+Home Section where user can add Reminders
+![HealthCare Home Sceenshot](https://user-images.githubusercontent.com/87888969/230453318-5f915e58-94ea-4390-9398-036aba966d6f.png)
+User Sign Up Page
+![Sign Up Page](https://user-images.githubusercontent.com/87888969/230453437-741e86d9-c9e7-4d7b-9b78-a93731c24e52.png)
+User Authentication using Login Page
+![Login Page](https://user-images.githubusercontent.com/87888969/230453521-30c75605-dd54-43b8-9186-457504f6533e.png)
+User can add, get, delete, update, all the reminders at the Home Page
+![reminders](https://user-images.githubusercontent.com/87888969/230453602-ea7997cd-6044-40a5-8014-e3fba889d160.png)
+
+
+
+
+
